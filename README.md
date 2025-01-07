@@ -9,14 +9,14 @@ Project Overview
 The primary objective of this project is to predict whether a loan application will be approved or not, based on the given dataset. It is designed to assist financial institutions in streamlining their loan approval processes.
 
 
-Technologies and Tools Used
+Technologies and Tools Used:-
 
    Programming Language: Python
    
    Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 
-Machine Learning Algorithms Used
+Machine Learning Algorithms Used:-
 
    Logistic Regression
    
@@ -27,7 +27,7 @@ Machine Learning Algorithms Used
    Support Vector Machines (SVM)
 
 
-Features
+Features:-
 
    Data Cleaning and Preprocessing
 
@@ -40,7 +40,7 @@ Features
    Hyperparameter Tuning
 
 
-Steps to Execute the Project
+Steps to Execute the Project:-
 
    Clone the repository.
    
