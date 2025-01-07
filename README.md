@@ -12,30 +12,40 @@ The primary objective of this project is to predict whether a loan application w
 Technologies and Tools Used
 
    Programming Language: Python
+   
    Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 
 Machine Learning Algorithms Used
 
    Logistic Regression
+   
    Decision Trees
+   
    Random Forest
+   
    Support Vector Machines (SVM)
 
 
 Features
 
    Data Cleaning and Preprocessing
+
    Exploratory Data Analysis (EDA)
+   
    Feature Selection and Engineering
+
    Model Training and Evaluation
+   
    Hyperparameter Tuning
 
 
 Steps to Execute the Project
 
    Clone the repository.
+   
    Open the project folder.
+   
    Run the loan_Approval_System_Code.py file in your Python environment.
 
 
