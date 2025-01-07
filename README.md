@@ -30,7 +30,7 @@ The primary objective of this project is to predict whether a loan application w
 
 1. Clone the repository.
 2. Open the project folder.
-3. Run the `loan_approval_prediction.py` file in your Python environment.
+3. Run the `Loan_Approval_System_Code.py` file in your Python environment.
 
 ## Results
 
